@@ -8,7 +8,7 @@ app.use(express.static('./dist/rouw-tchat-app'));
 
 app.get('/*', (req,res)=>{
     
-res.sendFile(path.join(__dirname,'/dist/rouw-tchat-app/index.html'));
+res.sendFile(path.join(__dirname,'/dist/rouw-tchat-app/src/index.html'));
 
 });
 
