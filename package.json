@@ -3,7 +3,7 @@
   "version": "2.0.0",
   "description": "CoreUI Free Angular 2+ Admin Template",
   "author": {
-    "name": "Łukasz Holeczek",
+    "name": "Barath",
     "url": "http://holeczek.pl",
     "github": "https://github.com/mrholek",
     "twitter": "https://twitter.com/lukaszholeczek"
@@ -15,7 +15,7 @@
     }
   ],
   "homepage": "https://coreui.io/angular",
-  "copyright": "Copyright 2018 creativeLabs Łukasz Holeczek",
+  "copyright": "Copyright 2018 creativeLabs Barath",
   "license": "MIT",
   "scripts": {
     "ng": "ng",

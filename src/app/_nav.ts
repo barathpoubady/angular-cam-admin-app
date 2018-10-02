@@ -1,5 +1,14 @@
 export const navItems = [
   {
+    name: 'LiveTchat',
+    url: '/livetchat',
+    icon: 'icon-speech',
+    badge: {
+      variant: 'success',
+      text: 'DEV'
+    }
+  },
+  {
     name: 'Dashboard',
     url: '/dashboard',
     icon: 'icon-speedometer',

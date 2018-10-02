@@ -67,6 +67,10 @@ export const routes: Routes = [
         loadChildren: './views/dashboard/dashboard.module#DashboardModule'
       },
       {
+        path: 'livetchat',
+        loadChildren: './views/livetchat/livetchat.module#livetchatModule'
+      },
+      {
         path: 'icons',
         loadChildren: './views/icons/icons.module#IconsModule'
       },
@@ -77,7 +81,7 @@ export const routes: Routes = [
       {
         path: 'theme',
         loadChildren: './views/theme/theme.module#ThemeModule'
-      },
+      }, 
       {
         path: 'widgets',
         loadChildren: './views/widgets/widgets.module#WidgetsModule'
